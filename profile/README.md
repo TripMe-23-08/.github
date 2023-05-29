@@ -9,14 +9,14 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="https://github.com/TripMe-23-08/.github/tree/main/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h2 align="center"><strong>Trip Me</strong></h2>
   <p align="center">
     <strong>Domestic Tour Plan Web Site</strong>
     <br />
-        <a href="https://github.com/TripMe-23-08/docs/README.md"><strong>Explore the docs »</strong></a>
+        <a href="/docs/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <!--<a href="https://youtu.be/">View Demo</a>-->
     <div>
@@ -43,13 +43,13 @@
 
 ## **Features**
 ### **Basic**
-![](https://github.com/TripMe-23-08/.github/tree/main/images/features/1.jpg)
-![](https://github.com/TripMe-23-08/.github/tree/main/images/2.jpg)
+![](/images/features/1.jpg)
+![](/images/features/2.jpg)
 ### **Key**
-![](https://github.com/TripMe-23-08/.github/tree/main/images/3.jpg)
-![](https://github.com/TripMe-23-08/.github/tree/main/images/4.jpg)
-![](https://github.com/TripMe-23-08/.github/tree/main/images/5.jpg)
-![](https://github.com/TripMe-23-08/.github/tree/main/images/6.jpg)
+![](/images/features/3.jpg)
+![](/images/features/4.jpg)
+![](/images/features/5.jpg)
+![](/images/features/6.jpg)
 
 
 
@@ -75,7 +75,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: ./images/screenshot.jpg
+[product-screenshot]: /images/screenshot.jpg
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
 
