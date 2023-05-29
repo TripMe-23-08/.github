@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="../images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/TripMe-23-08/.github/tree/main/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h2 align="center"><strong>Trip Me</strong></h2>
@@ -43,13 +43,13 @@
 
 ## **Features**
 ### **Basic**
-![](../images/features/1.jpg)
-![](../images/features/2.jpg)
+![](https://github.com/TripMe-23-08/.github/tree/main/images/features/1.jpg)
+![](https://github.com/TripMe-23-08/.github/tree/main/images/2.jpg)
 ### **Key**
-![](../images/features/3.jpg)
-![](../images/features/4.jpg)
-![](../images/features/5.jpg)
-![](../images/features/6.jpg)
+![](https://github.com/TripMe-23-08/.github/tree/main/images/3.jpg)
+![](https://github.com/TripMe-23-08/.github/tree/main/images/4.jpg)
+![](https://github.com/TripMe-23-08/.github/tree/main/images/5.jpg)
+![](https://github.com/TripMe-23-08/.github/tree/main/images/6.jpg)
 
 
 
