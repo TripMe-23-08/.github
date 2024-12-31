@@ -17,6 +17,7 @@
     <strong>Domestic Tour Plan Web Site</strong>
     <br />
         <a href="/docs/README.md"><strong>Explore the docs »</strong></a>
+        <a href="https://youtu.be/aDRhgaM8HhY"><strong>시연영상</strong></a>
     <br />
     <!--<a href="https://youtu.be/">View Demo</a>-->
     <div>
